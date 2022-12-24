@@ -1,0 +1,6 @@
+.idea
+.vscode
+info.txt
+assets/components/mxblog/js/mgr/widgets/items.grid.js
+assets/components/mxblog/js/mgr/widgets/items.windows.js
+core/components/mxblog/src/Processors/Item
